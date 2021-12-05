@@ -2,3 +2,5 @@
 2. Determine where to purchase pizza.
 3. Drive to location or call business to place order.
 4. Pay for order before or after pizza is received.
+5. Tip food service worker.
+6. Smile gratefully.
